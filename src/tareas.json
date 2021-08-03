@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "person":"juan",
+    "todo":"hacer el entregable",
+    "ready": false
+
+  },
+  {
+    "id": 1,
+    "person":"mafe",
+    "todo":"hacer el entregable",
+    "ready": false
+
+  },
+  {
+    "id": 2,
+    "person":"emilio",
+    "todo":"hacer el entregable",
+    "ready": false
+
+  }
+
+]
