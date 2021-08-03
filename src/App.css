@@ -80,3 +80,32 @@ body{
   border-radius: 10px;
   text-align: center;
 }
+
+@media (max-width: 900px){
+  body{
+
+  }
+
+  .or{
+    margin-left: 17%;
+    font-size: small;
+  }
+  .app{
+    width:80%
+  }
+}
+.tittle{
+  font-size: 22px;
+}
+@media (max-width: 400px){
+  .app{
+    width: 95%
+  }
+  .tittle{
+    font-weight: bolder;
+    font-size: 22px;
+  }
+  .taskway{
+    font-size: small;
+  }
+}
